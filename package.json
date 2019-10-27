@@ -1,25 +1,25 @@
 {
-  "name": "sparkar-fractura",
+  "name": "sparkar-safety-glass-script",
   "version": "1.0.0",
-  "description": "fractura",
+  "description": "sparkar-safety-glass script version",
   "author": "Andrea Bovo <spleen666@gmail.com>",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/spleennooname/sparkar-fractura.git"
+    "url": "https://github.com/spleennooname/sparkar-safety-glass-script.git"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode=production --config webpack.config.js",
     "dev": "cross-env NODE_ENV=development  webpack --watch --mode=production --config webpack.config.js"
   },
   "bugs": {
-    "url": "https://github.com/spleennooname/sparkar-fractura/issues"
+    "url": "https://github.com/spleennooname/sparkar-safety-glass-script/issues"
   },
   "keywords": [
     "ar",
     "spark-ar",
-    "fractura"
+    "sparkar-safety-glass-script"
   ],
   "dependencies": {
     "mersenne-twister": "^1.1.0",
