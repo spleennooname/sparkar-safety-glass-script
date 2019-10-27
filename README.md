@@ -3,6 +3,8 @@
 # spark-safety-glass
 > script version of [Josh Beckwith](https://github.com/positlabs) [sparkar-safety-glass](https://github.com/positlabs/spark-safety-glass)
 
+![preview](./preview.jpg)
+
 ## setup
 
 * install deps `npm i`
