@@ -4,6 +4,7 @@
 > script version of [Josh Beckwith](https://github.com/positlabs) [sparkar-safety-glass](https://github.com/positlabs/spark-safety-glass)
 
 ![preview](./preview.jpg)
+![code](./code.jpg)
 
 ## setup
 

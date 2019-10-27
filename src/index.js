@@ -7,13 +7,10 @@
 const Materials = require('Materials')
 const Textures = require('Textures')
 const Shaders = require('Shaders')
-const CameraInfo = require('CameraInfo')
 const R = require('Reactive')
 const console = require('Diagnostics')
 // get face material
 const faceCameraMaterial = Materials.get('face0')
-// get resolution
-const res = R.pack2(CameraInfo.previewSize.width, CameraInfo.previewSize.height)
 // get camera shader signal
 const cameraColor = Textures.get('cameraTexture0').signal
 // get texture coords
